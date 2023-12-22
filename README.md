@@ -8,4 +8,6 @@ This repo provides code to reproduce the results in the research article: Lim & 
 
 "PART2_evaluate_new_data.ipynb" provides examples for how to map a new dataset on to the pre-generated geometric landscape. 
 
-Running these examples requires the data folder. Please follow the readme in this data folder to obtain the data files
+Running these examples requires the data folder. Please follow the readme in this data folder to obtain the data files.
+
+"visualize_benchmarking_datasets.ipynb" provides visiualizations for all 169 benchmarking datasets used in this study.
